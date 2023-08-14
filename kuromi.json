@@ -1,0 +1,44 @@
+{
+   "isRedirect": false,
+   "message": "Hai there is new update for this app please download!",
+   "redirectUrl": "-",
+   
+   "moreApp": [
+		{
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
+		},
+		{
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
+		},
+		{
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
+		},
+		{
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
+		},
+		{
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
+		},
+		{
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
+		}
+	]
+}
